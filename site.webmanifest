@@ -1,0 +1,12 @@
+{
+  "name": "Behold Again International Foundation",
+  "short_name": "BAIF",
+  "icons": [
+    { "src": "/assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#A8232E",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "start_url": "/"
+}
